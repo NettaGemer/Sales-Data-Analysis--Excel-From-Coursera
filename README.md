@@ -1,8 +1,8 @@
 # Sales-Data-Analysis--Excel-From-Coursera
 I took the 'Introduction to Data Analysis using Microsoft Excel' from Coursera which is free and instead of guidance i made it a question and then I solved it, and with the video of Coursera I could check myself.
 1. check which sales had 20 and more chairs, if they have more or equal to 20 they need to get discount.
-2. **solution-** adding discount column to the table and entering IF equation- if less then 20 receive N, opposite receive Y.
-3. we want to calculate the final price  for the sale, applying the discount only to the sales that had 20 or more chairs.
+**solution-** adding discount column to the table and entering IF equation- if less then 20 receive N, opposite receive Y.
+2. we want to calculate the final price  for the sale, applying the discount only to the sales that had 20 or more chairs.
 **solution-** adding column name Final Price and with the IF equation, a 5 percent discount is applied to the relevant sales.
 3.we want to add column that include the company name in addition to the client ID.
 **solution-** using the VLOOKUP equation with the Customer Info worksheet.
